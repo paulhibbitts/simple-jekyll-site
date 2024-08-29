@@ -1,0 +1,3 @@
+# Simple Jekyll Site
+
+_A simple Jekyll site hosted on GitHub pages which uses the [Slate](https://github.com/pages-themes/slate) theme. Also an example of how [Docsify-This.net](https://docsify-this.net) can be used to [display the same Markdown content](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/simple-jekyll-site/main&homepage=index.md&sidebar=true&maxLevel=3&page-title=My%20Open%20Publishing%20Space#/)._
